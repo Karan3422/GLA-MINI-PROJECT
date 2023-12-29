@@ -1,0 +1,28 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: 10px solid rgb(255, 255, 255);
+    border-spacing: 10px;
+  }
+  th, td {
+    padding: 25px;
+    border-spacing: 5px;
+  }
+  body{
+    background-color: rgb(255, 225, 225);
+    
+  }
+  a:link { text-decoration: none;
+color:purple; }
+
+
+a:visited { text-decoration: none;
+color:rgb(29, 36, 29); }
+
+
+a:hover { text-decoration: none; 
+color:red;}
+
+
+a:active { text-decoration: none;
+ }
